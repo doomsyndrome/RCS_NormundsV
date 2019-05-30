@@ -1,0 +1,197 @@
+
+html {
+    position: relative;
+    min-height: 100%;
+    }
+.header img{
+    float: left;
+    width: 60px;
+    height: 60px;
+   
+}
+ul{
+    margin-bottom: 0;
+}
+#navbar{
+    background: #333;
+    color: #fff;
+    overflow: auto;
+}
+
+#navbar a{
+    color:#fff;
+}
+
+#navbar .logo{
+    float:left;
+    padding-top: 20px;
+}
+
+#navbar .logo a:hover{
+    color: #f7c08a;
+}
+
+#navbar ul{
+    list-style: none;
+    float: right;
+}
+
+#navbar ul li{
+    float: left;
+}
+
+#navbar ul li a{
+    display:block;
+    padding: 20px;
+    text-align: center;
+}
+
+
+#navbar ul li a:hover,
+#navbar ul li a.current{
+    color: #f7c08a;
+    background: #444;
+}
+
+#main-footer{
+    text-align: center;
+    background: #444444;
+    color:#fff;
+    padding: 10px;
+    bottom: 0;
+
+}
+
+.carousel{
+    vertical-align: middle;
+}
+
+
+.p1{
+   
+     text-align: center;
+   }
+   .card {
+  
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0rem;
+}
+
+.card-text{
+    padding: 0.8rem;
+    line-height: 1.1rem;
+}
+.card-title{
+    padding: 0.5rem;
+    margin-bottom: 0px;
+}
+
+
+.btn{
+  font-size: 175%;
+  background: #ccc;
+  opacity: 0.75;
+}
+
+
+.first{
+    float: left;
+    margin: 20px;
+
+}
+.second{
+    
+    float: left;
+    margin: 20px;
+   
+   
+}
+.third{
+    
+    float: left;
+    margin: 20px;
+   
+   
+}
+
+.text1{
+    margin-top: 40px;
+  
+}
+.text2{
+    margin-top: 40px;
+   
+}
+.text3{
+    margin-top: 40px;
+    
+}
+.btn4{
+    margin-top: 30px;
+    font: bold
+    
+}
+
+.buttons{
+    margin-right: 12.5%;
+}   
+
+
+
+.chat1{
+    margin-left: 12.5%;
+}
+#add-task{
+    margin-left: 12.5%;
+
+}
+#task-name{
+    margin-left: 12.5%;
+}
+
+#chat{
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+#texta2{
+    float: none;
+}
+#text{
+    float: left;
+}
+hr:nth-of-type(1){
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    
+}
+hr:nth-of-type(2){
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+hr:nth-of-type(3){
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+.register{
+   
+    font-size: 200%;
+}
+#user{
+    margin: 5px;
+}
+#msg{
+    margin: 5px;
+}
+#main-footer{
+    text-align: center;
+    background: #444444;
+    color: #fff;
+   
+    margin-bottom: 0;
+    
+}
+.footer{
+    margin-bottom: 0;
+}
+
